@@ -6,9 +6,9 @@
 
 
 # CBRL-ITW-ID(全球涉及计算生物学研究实验室)
-# 完善中... 
 labs I admire  
 mainly close to my field and my taste
+# 完善中... 
    
     
 **Labs始因**  
