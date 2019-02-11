@@ -1,1 +1,1 @@
-(Marcelo Nobrega)[http://nobregalab.uchicago.edu/]
+[Marcelo Nobrega](http://nobregalab.uchicago.edu/)
